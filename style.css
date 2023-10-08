@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
   }
+
   body{
     display: flex;
     padding: 0 10px;
@@ -12,10 +13,12 @@
     min-height: 100vh;
     background: #17A2B8;
   }
+
   ::selection{
     color: #fff;
     background: #17A2B8;
   }
+
   .wrapper{
     width: 770px;
     padding: 35px;
@@ -23,44 +26,54 @@
     border-radius: 10px;
     box-shadow: 0 10px 15px rgba(0,0,0,0.05);
   }
+
   .wrapper .input-field{
     opacity: 0;
     z-index: -999;
     position: absolute;
   }
+
   .wrapper .content-box{
     padding: 13px 20px 0;
     border-radius: 10px;
     border: 1px solid #bfbfbf;
   }
+
   .content-box .typing-text{
     overflow: hidden;
     max-height: 256px;
   }
+
   .typing-text::-webkit-scrollbar{
     width: 0;
   }
+
   .typing-text p{
     font-size: 21px;
     text-align: justify;
     letter-spacing: 1px;
     word-break: break-all;
   }
+
   .typing-text p span{
     position: relative;
   }
+
   .typing-text p span.correct{
     color: #56964f;
   }
+
   .typing-text p span.incorrect{
     color: #cb3439;
     outline: 1px solid #fff;
     background: #ffc0cb;
     border-radius: 4px;
   }
+
   .typing-text p span.active{
     color: #17A2B8;
   }
+
   .typing-text p span.active::before{
     position: absolute;
     content: "";
@@ -73,11 +86,13 @@
     background: #17A2B8;
     animation: blink 1s ease-in-out infinite;
   }
+
   @keyframes blink{
     50%{ 
       opacity: 1; 
     }
   }
+
   .content-box .content{
     margin-top: 17px;
     display: flex;
@@ -87,6 +102,7 @@
     justify-content: space-between;
     border-top: 1px solid #bfbfbf;
   }
+
   .content button{
     outline: none;
     border: none;
@@ -99,9 +115,11 @@
     background: #17A2B8;
     transition: transform 0.3s ease;
   }
+
   .content button:active{
     transform: scale(0.97);
   }
+
   .content .result-details{
     display: flex;
     flex-wrap: wrap;
@@ -109,6 +127,7 @@
     width: calc(100% - 140px);
     justify-content: space-between;
   }
+
   .result-details li{
     display: flex;
     height: 20px;
@@ -116,21 +135,26 @@
     position: relative;
     align-items: center;
   }
+
   .result-details li:not(:first-child){
     padding-left: 22px;
     border-left: 1px solid #bfbfbf;
   }
+
   .result-details li p{
     font-size: 19px;
   }
+
   .result-details li span{
     display: block;
     font-size: 20px;
     margin-left: 10px;
   }
+
   li span b{
     font-weight: 500;
   }
+  
   li:not(:first-child) span{
     font-weight: 500;
   }

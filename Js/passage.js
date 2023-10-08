@@ -14,5 +14,13 @@ const paragraphs =[
     "Throughout his career, Messi has been a one-club man, spending the majority of his career at Barcelona. His loyalty to the club and its fans is truly commendable.",
     "In 2021, Messi made a surprising move to Paris Saint-Germain (PSG), marking a new chapter in his illustrious career. Football fans around the world eagerly await his performances in the French league.",
     "Off the field, Messi is known for his philanthropic work. He has been involved in various charitable initiatives, making a positive impact on society.",
-    "In summary, Lionel Messi's legacy in the world of football is secure. He will always be remembered as one of the greatest athletes of all time."
+    "In summary, Lionel Messi's legacy in the world of football is secure. He will always be remembered as one of the greatest athletes of all time.",
+    "Eden Hazard, born on January 7, 1991, in La Louvière, Belgium, is a renowned professional football player known for his exceptional skills and versatility on the field.",
+    "Hazard began his football career at a young age, playing for local clubs before joining the youth academy of Lille OSC in France.",
+    "His breakthrough came in the 2010-2011 season when he played a key role in helping Lille win the Ligue 1 title, showcasing his dribbling ability and creative playmaking.",
+    "In 2012, Eden Hazard signed with Chelsea FC in the English Premier League, where he became one of the club's all-time greats. During his time at Chelsea, he won multiple Premier League titles and other domestic and international trophies.",
+    "Known for his explosive acceleration, close ball control, and vision, Hazard was often compared to some of the greatest footballers in the world.",
+    "In 2019, Hazard signed with Real Madrid, fulfilling a lifelong dream of playing for one of the most prestigious clubs in the world. He continues to be a key player for both Real Madrid and the Belgian national team.",
+    "Off the pitch, Eden Hazard is known for his humility and sportsmanship, making him a beloved figure in the football world.",
+    "As one of the most exciting and talented players of his generation, Eden Hazard's contributions to the world of football are truly remarkable."
 ];

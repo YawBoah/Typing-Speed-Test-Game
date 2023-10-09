@@ -95,6 +95,11 @@ const paragraphs =[
     "Zidane's impact on the game extended beyond his playing and coaching career. He inspired a generation of footballers with his grace and creativity. Young players around the world looked up to him as a role model and aspired to emulate his skills.",
 
     "Off the field, Zidane is known for his humility and sportsmanship. He conducted himself with class and dignity throughout his career, earning the respect and admiration of fans and fellow professionals alike.",
-    
+
     "In the world of football, Zinedine Zidane's name will forever be etched in history as a true legend. His contributions to the sport and his enduring legacy continue to inspire generations of football enthusiasts."
 ];
+
+
+// You can use the paragraphs array to access random paragraphs 
+const randomParagraph = paragraphs[Math.floor(Math.random() * paragraphs.length)];
+console.log(randomParagraph);

@@ -30,5 +30,14 @@ const paragraphs =[
     "After leaving Barcelona in 2017, Neymar joined Paris Saint-Germain (PSG) in a world-record transfer deal. He continued to excel, helping PSG secure domestic titles and making significant contributions in the UEFA Champions League.",
     "Neymar is also a key player for the Brazilian national team. He has represented Brazil in multiple FIFA World Cup tournaments and played a pivotal role in their 2013 FIFA Confederations Cup victory and the gold medal win at the 2016 Rio Olympics.",
     "Off the field, Neymar is known for his philanthropic efforts and endorsements with major brands. He remains a beloved figure in the football world, known for his flashy style and exceptional skills.",
-    "In summary, Neymar Jr. is a football icon, known for his extraordinary talent, charisma, and contributions to the sport. His journey from a young football enthusiast in Brazil to a global superstar is truly remarkable."
+    "In summary, Neymar Jr. is a football icon, known for his extraordinary talent, charisma, and contributions to the sport. His journey from a young football enthusiast in Brazil to a global superstar is truly remarkable.",
+    "Many people often misunderstand Mohammed Kudus as just a football player, but in reality, he is much more than that. He embodies the spirit of determination and hard work. His journey in the world of soccer is like a thrilling adventure, filled with ups and downs.",
+    
+    "In today's football landscape, Mohammed Kudus shines as a true star. His skills on the field are nothing short of magical. Watching him control the ball and make incredible passes feels like witnessing an artist at work. He is a true maestro of the game.",
+    
+    "Mohammed Kudus has become an inspiration for young aspiring footballers around the world. His dedication to the sport and his relentless pursuit of excellence serve as a beacon of hope. He is proof that dreams can come true with passion and perseverance.",
+    
+    "Off the field, Mohammed Kudus is known for his humility and kindness. He is not just a remarkable athlete but also a role model for sportsmanship. His contributions to his community and his commitment to making the world a better place are commendable.",
+    
+    "In the grand tapestry of football history, Mohammed Kudus has already etched his name in golden letters. His legacy will continue to inspire generations of football enthusiasts. We can't wait to see what incredible feats he will achieve in the years to come."
 ];

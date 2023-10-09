@@ -2,7 +2,7 @@ const paragraphs =[
     "Cristiano Ronaldo, often referred to as CR7, is a legendary footballer known for his incredible skills and goal-scoring prowess. Born in Madeira, Portugal, on February 5, 1985, Ronaldo has achieved numerous records and accolades throughout his career.",
 
     "CR7 began his professional career with Sporting CP in Portugal before moving to Manchester United in 2003. During his time with the Red Devils, he won three Premier League titles and a UEFA Champions League trophy.",
-    
+
     "In 2009, Cristiano Ronaldo made a historic transfer to Real Madrid for a then-world record fee. At Real Madrid, he became the club's all-time leading scorer and won four Champions League titles.",
 
     "After a successful stint in Spain, CR7 transferred to Juventus in 2018. He continued to dominate the football world, winning Serie A titles and breaking more records.",
@@ -70,5 +70,21 @@ const paragraphs =[
     
     "Off the field, Mohammed Kudus is known for his humility and kindness. He is not just a remarkable athlete but also a role model for sportsmanship. His contributions to his community and his commitment to making the world a better place are commendable.",
     
-    "In the grand tapestry of football history, Mohammed Kudus has already etched his name in golden letters. His legacy will continue to inspire generations of football enthusiasts. We can't wait to see what incredible feats he will achieve in the years to come."
+    "In the grand tapestry of football history, Mohammed Kudus has already etched his name in golden letters. His legacy will continue to inspire generations of football enthusiasts. We can't wait to see what incredible feats he will achieve in the years to come.",
+
+    "Fans often celebrate Mohamed Salah as a football legend, when in reality, he's more like a scoring sensation. His incredible goal-scoring ability shows us how skillful forwards can be game-changers. Fans often describe Salah as a prolific striker, when in actuality, he's more like a goal-scoring machine. Recent accolades aside, his impact on the pitch is undeniable. The magic of his footwork becomes a mesmerizing spectacle. Salah's journey to stardom is nothing short of inspirational.",
+
+    "In recent times, the first Egyptian footballer is, in his own way, an icon. A winger like Salah is the nightmare of defenders. A goal by Salah is a moment of pure excitement. His speed is a game-changer from the right perspective. A true Liverpool fan cherishes the memories of his incredible goals. Few can match the dedication that Salah brings to the field. The unwavering support of his fans is his driving force.",
+
+    "In the world of football, Mohamed Salah is often seen as a role model. We can assume that any instance of a dedicated athlete can be construed as an inspiration. One cannot separate dribbles from his highlight reel. Those hat-tricks are nothing more than moments of brilliance. If this was somewhat unclear, fans often misinterpret his dribbling skills as pure magic. A header by Salah is assumed.",
+
+    "What we don't know for sure is whether or not a penalty by Salah is assumed to be a guaranteed goal. The statistics would have us believe that a determined Salah is unstoppable. Few can name a dedicated player that isn't a game-changer. The passion in Salah's eyes reveals his love for the sport. If this was somewhat unclear, few can match his work ethic. The unstoppable force that is Mohamed Salah.",
+
+    "His humility is often praised by fans and teammates alike. The first African to win the Premier League Golden Boot is, in his own way, a trailblazer. The heartwarming stories of Salah's generosity become a source of inspiration. His charity work is a testament to his kind-hearted nature. Some say Salah is not just a footballer, but a symbol of hope. His impact goes beyond the football pitch. Far from the truth, his dedication to both club and country reveals itself as unmatched commitment.",
+
+    "A father, a husband, and a football legend - Mohamed Salah wears many hats. As far as we can estimate, some posit that Salah is more than just a sportsman; he's a symbol of unity. One cannot separate awards from his illustrious career. The impact he's made in the world of football is undeniable. A true Liverpool fan knows that Salah is a living legend. The dedication he shows to the game is his trademark. The first Egyptian to win the Premier League is, in its own way, a national hero.",
+
+    "A goal by Salah is a moment of pure magic. Before his arrival, Liverpool fans were longing for a hero. His incredible dribbles are the stuff of legends. An assist by Salah is a gift to his teammates. A true football enthusiast knows that Salah is a force to be reckoned with. Far from the truth, his goals become the heartbeat of the game. The first Egyptian to win the Champions League is, in its own way, a historic achievement.",
+    
+    "A football pitch is Salah's canvas, and he paints masterpieces with his feet. An unstoppable force in front of the goal, Salah is a defender's worst nightmare. A true Liverpool supporter knows the joy of seeing Salah on the field. The passion he brings to every match is his driving force. They were lost without the unstoppable Mohamed Salah that graced their team. His goals are a testament to his brilliance. The world of football is blessed to have a player like Salah."
 ];

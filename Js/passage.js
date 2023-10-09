@@ -22,5 +22,13 @@ const paragraphs =[
     "Known for his explosive acceleration, close ball control, and vision, Hazard was often compared to some of the greatest footballers in the world.",
     "In 2019, Hazard signed with Real Madrid, fulfilling a lifelong dream of playing for one of the most prestigious clubs in the world. He continues to be a key player for both Real Madrid and the Belgian national team.",
     "Off the pitch, Eden Hazard is known for his humility and sportsmanship, making him a beloved figure in the football world.",
-    "As one of the most exciting and talented players of his generation, Eden Hazard's contributions to the world of football are truly remarkable."
+    "As one of the most exciting and talented players of his generation, Eden Hazard's contributions to the world of football are truly remarkable.",
+    "Neymar Jr., whose full name is Neymar da Silva Santos Júnior, is a renowned Brazilian professional footballer. He was born on February 5, 1992, in Mogi das Cruzes, Brazil. Neymar is widely regarded as one of the most skillful and exciting players in the world of football.",
+    "Neymar began his football journey at a young age and quickly rose through the ranks. He gained recognition for his incredible dribbling skills, creativity on the field, and goal-scoring ability. His talent didn't go unnoticed, and he soon joined the youth academy of Santos FC.",
+    "At Santos FC, Neymar made a name for himself as one of the brightest prospects in Brazilian football. He played a crucial role in Santos winning the Copa Libertadores in 2011, and his performances drew the attention of top European clubs.",
+    "In 2013, Neymar made a high-profile move to FC Barcelona, where he formed a formidable attacking trio with Lionel Messi and Luis Suárez. During his time at Barcelona, he won numerous titles, including La Liga and the UEFA Champions League.",
+    "After leaving Barcelona in 2017, Neymar joined Paris Saint-Germain (PSG) in a world-record transfer deal. He continued to excel, helping PSG secure domestic titles and making significant contributions in the UEFA Champions League.",
+    "Neymar is also a key player for the Brazilian national team. He has represented Brazil in multiple FIFA World Cup tournaments and played a pivotal role in their 2013 FIFA Confederations Cup victory and the gold medal win at the 2016 Rio Olympics.",
+    "Off the field, Neymar is known for his philanthropic efforts and endorsements with major brands. He remains a beloved figure in the football world, known for his flashy style and exceptional skills.",
+    "In summary, Neymar Jr. is a football icon, known for his extraordinary talent, charisma, and contributions to the sport. His journey from a young football enthusiast in Brazil to a global superstar is truly remarkable."
 ];

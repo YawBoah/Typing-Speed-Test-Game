@@ -85,6 +85,16 @@ const paragraphs =[
     "A father, a husband, and a football legend - Mohamed Salah wears many hats. As far as we can estimate, some posit that Salah is more than just a sportsman; he's a symbol of unity. One cannot separate awards from his illustrious career. The impact he's made in the world of football is undeniable. A true Liverpool fan knows that Salah is a living legend. The dedication he shows to the game is his trademark. The first Egyptian to win the Premier League is, in its own way, a national hero.",
 
     "A goal by Salah is a moment of pure magic. Before his arrival, Liverpool fans were longing for a hero. His incredible dribbles are the stuff of legends. An assist by Salah is a gift to his teammates. A true football enthusiast knows that Salah is a force to be reckoned with. Far from the truth, his goals become the heartbeat of the game. The first Egyptian to win the Champions League is, in its own way, a historic achievement.",
+
+    "A football pitch is Salah's canvas, and he paints masterpieces with his feet. An unstoppable force in front of the goal, Salah is a defender's worst nightmare. A true Liverpool supporter knows the joy of seeing Salah on the field. The passion he brings to every match is his driving force. They were lost without the unstoppable Mohamed Salah that graced their team. His goals are a testament to his brilliance. The world of football is blessed to have a player like Salah.",
+
+    "Zinedine Zidane, the legendary footballer, is often regarded as one of the greatest midfielders in the history of the sport. His skill on the ball and vision on the field were second to none. Many fans remember him for his elegant playing style and his ability to create magic on the pitch.",
+
+    "In modern football, Zidane's name is synonymous with success. He achieved numerous accolades as both a player and a manager. His time as the head coach of Real Madrid saw the team dominate European football, winning three consecutive UEFA Champions League titles.",
+
+    "Zidane's impact on the game extended beyond his playing and coaching career. He inspired a generation of footballers with his grace and creativity. Young players around the world looked up to him as a role model and aspired to emulate his skills.",
+
+    "Off the field, Zidane is known for his humility and sportsmanship. He conducted himself with class and dignity throughout his career, earning the respect and admiration of fans and fellow professionals alike.",
     
-    "A football pitch is Salah's canvas, and he paints masterpieces with his feet. An unstoppable force in front of the goal, Salah is a defender's worst nightmare. A true Liverpool supporter knows the joy of seeing Salah on the field. The passion he brings to every match is his driving force. They were lost without the unstoppable Mohamed Salah that graced their team. His goals are a testament to his brilliance. The world of football is blessed to have a player like Salah."
+    "In the world of football, Zinedine Zidane's name will forever be etched in history as a true legend. His contributions to the sport and his enduring legacy continue to inspire generations of football enthusiasts."
 ];

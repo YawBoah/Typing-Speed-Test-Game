@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🚀 Want to test your typing speed and accuracy? You're in the right place! Try out our typing speed test feature.
 
-[Start Typing Test](link-to-your-button-image)
+[Start Typing Test](https://yawboah.github.io/Typing-Speed-Test-Game/)
 
 ---
 

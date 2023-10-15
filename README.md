@@ -88,6 +88,13 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+## Test Your Typing Speed
+
+🚀 Want to test your typing speed and accuracy? You're in the right place! Try out our typing speed test feature.
+
+[Start Typing Test](link-to-your-button-image)
+
 ---
 
 Feel free to customize this README to add more specific information about your project, such as dependencies, known issues, or future development plans.
